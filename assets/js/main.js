@@ -26,7 +26,3 @@ function changeBlueColor() {
 function changeHotPinkColor() {
   box.style.backgroundColor = colors.hotPink;
 }
-
-function randomColor() {
-  alert("뭐여?");
-}
